@@ -1,4 +1,4 @@
-from turtle import onclick
+
 import streamlit as st
 import requests
 from get_results import *
